@@ -1,2 +1,4 @@
 icalendar
 streamlit
+google-genai
+streamlit
